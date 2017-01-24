@@ -6,4 +6,5 @@ The additional features are,
 - Monthly Fees and Additional Fees Managements
 - Exam Results Sheet Creation and Summarized details creation
 - Barcode based Attendance System and Reports generation
+
 Developed for Semester Group Project, University of Moratuwa
